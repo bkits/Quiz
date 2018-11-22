@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question1">1)Ποιά λογική πύλη απεικονίζεται στην παρακάτω εικόνα?</string>
+    <string name="question2">2) Ποιά αρχιτεκτονική δυαδικής άθροισης κοστίζει λιγότερο σε χώρο?</string>
+    <string name="answer31">πολλαπλασιασμός με το 2</string>
+    <string name="answer32">διαίρεση με το 4</string>
+    <string name="answer33">άθροιση με το 2</string>
+    <string name="answer34">πολλαπλασιασμός με το 4</string>
+    <string name="answer4">ΣΥΜΠΛΗΡΩΣΤΕ ΕΔΩ</string>
+    <string name="check">ΕΛΕΝΧΟΣ</string>
+    <string name="question3">3) Ποιά πράξη θα εκτελεστεί εαν σε έναν δυαδικό αριθμό γίνει λογική ολίσθηση αριστερά χωρίς να προκληθεί υπερχείλιση ή αλλαγή πρόσημου?</string>
+    <string name="question4">4) Ποιός δεκαδικός αριθμός αναπαριστάται από τον ακόλουθο BCD αριθμό 3 ψηφίων 0001 0101 1001</string>
+    <string name="question5">5) Ποιός βρόχος υλοποιείται στην συμβολική γλώσσα?</string>
+    <string name="question6">6) Ποιά εντολή επιστρέφει την επόμενη διεύθυνση μνήμης από έναν πίνακα, αν a είναι ένας πίνακας 8 ακεραίων στην C και addr είναι ένας ακέραιος που δεν μπορεί να υπερχείλιση?</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="question1">1) Which logic gate is represented by the following picture?</string>
+    <string name="answer11" translatable="false">NOR</string>
+    <string name="answer12" translatable="false">XOR</string>
+    <string name="answer13" translatable="false">XNOR</string>
+    <string name="answer14" translatable="false">NAND</string>
+
+    <string name="question2">2) Which binary addition architecture is the most area efficient?</string>
+    <string name="answer21" translatable="false">CLA</string>
+    <string name="answer22" translatable="false">RCA</string>
+
+    <string name="question3">3) Which calculation is performed if a binary number is shifted left logically by 2 without overflowing it or changing its sign? </string>
+    <string name="answer31">multiplication by 2</string>
+    <string name="answer32">division by 4</string>
+    <string name="answer33">addition by 2</string>
+    <string name="answer34">multiplication by 4</string>
+
+    <string name="question4">4) Which decimal number is represented by the following 3 digit BCD number	&quot;0001 0101 1001&quot;</string>
+    <string name="answer4">TYPE HERE</string>
+
+    <string name="question5">5) Which loop is implemented in assembly?</string>
+    <string name="answer51" translatable="false">for loop</string>
+    <string name="answer52" translatable="false">while loop</string>
+    <string name="answer53" translatable="false">do-while loop</string>
+
+    <string name="question6">6) Which operation will return the next memory address of an array, if &quot;a&quot; is an array of 8 integers in C and &quot;addr&quot; is an integer that can not be overflowed?</string>
+    <string name="answer61" translatable="false">addr = &amp;a + 1;</string>
+    <string name="answer62" translatable="false">addr = &amp;a[0] + 1;</string>
+    <string name="answer63" translatable="false">addr = a + 1;</string>
+    <string name="answer64" translatable="false">addr = &amp;a + 8;</string>
+    <string name="answer65" translatable="false">addr = &amp;a[0] + 8;</string>
+
+    <string name="check">CHECK</string>
+</resources>
